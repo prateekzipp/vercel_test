@@ -11,7 +11,7 @@ pip install -r requirements.txt
 uvicorn api.index:app --reload
 ```
 
-Then open `http://127.0.0.1:8000/`.
+Then open `http://127.0.0.1:8000/hello`.
 
 ## Local run (Vercel)
 
