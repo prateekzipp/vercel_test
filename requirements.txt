@@ -4,4 +4,6 @@ python-multipart
 pymupdf
 openai
 python-dotenv
+supabase
+requests
 
