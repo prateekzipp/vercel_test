@@ -14,7 +14,7 @@ API_VERSION = "2025-11-01"
 
 # ⚠️ PASTE YOUR KEY HERE
 # Find this in Azure Portal -> Your Resource -> "Keys and Endpoint"
-API_KEY = "B7uHcFUCqqMu0r11HCJKKixXTZttYqJht9JNqLcXIhGCwP1MKQV3JQQJ99CBAC4f1cMXJ3w3AAAAACOGMuqq"
+API_KEY = ""
 
 # The document you want to analyze (local file path, PDF)
 DOCUMENT_PATH = "DABUR_ALL_PAGES copy.pdf"
